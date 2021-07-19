@@ -1,6 +1,6 @@
-package comentarios en java;
+package comentarios;
 
-public class comentarios en java {
+public class comentarios {
     
         public static Void main(String[] args) {
 

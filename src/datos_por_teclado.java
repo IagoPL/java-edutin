@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class datos_por_teclado {
     public static void main(String[] args) throws Exception {
         Scanner lector = new Scanner (System.in);   
         
