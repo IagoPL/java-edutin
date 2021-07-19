@@ -1,14 +1,6 @@
-## Getting Started
+# iniciación en Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Curso de Java en Edutin Academy
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Aquí están mis ejercicios en esta iniciación al Java, junto a los apuntes del curso, que estoy cursando en *Edutin Academy*
+Están todos separados por el orden de temas dentro del curso, y posen los ejercicios, junto a zonas de información extra en los comentarios
