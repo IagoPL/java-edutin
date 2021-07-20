@@ -13,6 +13,6 @@ public class arrays {
 
         int [] numeros ={10,22,34,45,54,67,72,84,99,10};
 
-        System.out.println(numeros[ 2 ]);
+        System.out.println("array definido en una unica barra de codigo: "+numeros[ 2 ]);
     }
 }
