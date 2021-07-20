@@ -10,7 +10,7 @@ public class ciclo_while {
 
         while(contador < limite) { //comprieva si contador es menor a limite
             System.out.println("numero "+contador); //da el resultado del contador
-            contador = contador + 1; // en caso de que el contador no sea 0 o mayor al limire suma uno al contador
+            contador ++; // en caso de que el contador no sea 0 o mayor al limire suma uno al contador
         }
 
     }
