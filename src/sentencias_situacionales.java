@@ -1,25 +1,18 @@
 import java.util.Scanner;
+import java.util.Arrays;
 
 public class sentencias_situacionales {
     public static void main(String[] args) {
-        int n;
+        Scanner scan = new Scanner (System.in);
+        System.out.println("ingrese 5 numeros");
 
-        Scanner entrada = new Scanner(System.in);
+        String numerosStr = scan.nextLine();
+
+        String cadena = numerosStr;
+        String[] parts = cadena.split("|");              
+        System.out.println(Arrays.asList(parts));
+
+        System.out.println("sus siglas son: "+numerosStr.substring(4,5)+", "+numerosStr.substring(3,4)+", "+numerosStr.substring(2,3)+", "+numerosStr.substring(1,2)+", "+numerosStr.substring(0,1));
         
-        System.out.println("ingrese un numero: ");
-
-        n = entrada.nextInt();
-        
-        System.out.println("ingrese un numero: ");
-
-        if (n > 0)
-        {
-            System.out.println("el numero es positivo");
-        }
-
-        else 
-        {
-            System.out.println("el numero es negativo");
-        }
     }
 }
