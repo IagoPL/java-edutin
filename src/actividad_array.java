@@ -1,21 +1,9 @@
 import java.util.Scanner;
-import java.util.Arrays;
-import java.util.*;
-import java.lang.*;
-public class sentencias_situacionales {
+
+public class actividad_array {
     public static void main(String[] args) {
         
-/*
 
-        String cadena="hola como estas";
-        String [] array=cadena.split(" ");
-        String invertido="";
-        for(int i=array.length-1;i>=0; i--){
-
-            invertido=invertido+" "+array[i];
-        }
-        System.out.println(invertido);
-*/
 
 
 
