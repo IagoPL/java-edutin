@@ -5,7 +5,7 @@ public class actividad_array {
         
 
 
-
+//hola
 
 Scanner scan = new Scanner (System.in);
         System.out.println("ingrese 5 numeros separados por comas");
